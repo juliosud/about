@@ -1,0 +1,30 @@
+/* styles.css */
+
+/* Style definitions */
+.custom-background {
+    background-color: #dedcdcbc;
+    padding: 20px;
+  }
+  
+  .styled-div {
+    background-color: #f5f5f5;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  /* Font color styles */
+  h1 {
+    color: #333;
+  }
+  
+  h2 {
+    color: #666;
+  }
+  
+  /* Font family styles */
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
